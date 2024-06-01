@@ -1,6 +1,6 @@
-# AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation
+# [ACL 2024] AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation
 
-This repository is the official implementation of 
+This repository is the official implementation of ACL 2024 paper 
 [AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation](https://arxiv.org/abs/2402.10646).
 
 <h5 align="center">
@@ -64,10 +64,10 @@ The inference command is in ```inference_script.sh```
 Please cite the repo if you use the data or code in this repo.
 
 ```
-@article{wang2024absinstruct,
+@inproceedings{wang2024absinstruct,
   title={AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation},
   author={Wang, Zhaowei and Fan, Wei and Zong, Qing and Zhang, Hongming and Choi, Sehyun and Fang, Tianqing and Liu, Xin and Song, Yangqiu and Wong, Ginny Y and See, Simon},
-  journal={arXiv preprint arXiv:2402.10646},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
   year={2024}
 }
 ```
